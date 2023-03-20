@@ -1,4 +1,4 @@
-# React Router / Redux
+# Router / Redux 연습용 Counter, Todo
 ![1](https://user-images.githubusercontent.com/87690691/226263604-c7feb1c8-8ebc-43a3-aa76-e8b437d6029c.png)
 
 
